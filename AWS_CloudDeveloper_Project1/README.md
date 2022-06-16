@@ -13,7 +13,7 @@
   <h3> Access the bucket object via its S3 object URL </h3>
   http://my-udacity-project-bucket.s3-website-us-east-1.amazonaws.com/index.html
   <h3> Cloudfront Distribution </h3>
-  [dhf42dw0vqgzi.cloudfront.net](https://dhf42dw0vqgzi.cloudfront.net/)
+  https://dhf42dw0vqgzi.cloudfront.net/
   
     
   
