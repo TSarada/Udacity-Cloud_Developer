@@ -1,7 +1,7 @@
 <h1>Project 1: Static Website Deployemnt on AWS</h1>
 <p> The S3 is perfect service to deploy the static websites on AWS CLOUD. The static website doesnot require a server.  </p>
 <h2> Steps followed to create the static website are as follows: </h2>
-<ol type="I">
+<ul type="square">
   <li> <b>Step 1:</b> Created an S3 bucket and made the bucket public </li>
   <li> <b>Step 2:</b> Uploaded all the files provided in "Student-ready starter code" </li>
   <li> <b>Step 3:</b> Secured the website with the help of IAM and configured S3 bucket for "Static webite" </li>
